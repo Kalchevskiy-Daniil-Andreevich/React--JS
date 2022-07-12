@@ -1,0 +1,36 @@
+.table {
+     width: 600px;
+     height: 600px;
+     border-spacing: 0;
+     margin: 0 auto;
+}
+
+.abc {
+     height: 25px;
+     text-align: center;
+     font-size: 25px;
+     color: rgb(210, 113, 6);
+}
+
+.number {
+     text-align: center;
+     width: 25px;
+     border: 0px;
+     font-size: 25px;
+     color: rgb(210, 113, 6);
+}
+
+.white {
+     background-color: rgb(251, 226, 195);
+     width: 60px;
+     height: 60px;
+     text-align: center;
+     font-size: 43px;
+}
+.brown {
+     background-color: rgb(210, 113, 6);
+     width: 60px;
+     height: 60px;
+     text-align: center;
+     font-size: 43px;
+}
